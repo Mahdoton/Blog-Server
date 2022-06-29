@@ -1,0 +1,88 @@
+[2022-03-21T10:07:04.187] [ERROR] app - {
+  message: "Cannot read properties of undefined (reading 'validateAsync')",
+  status: 500
+}
+[2022-03-21T10:07:57.823] [ERROR] app - { message: '"title" is not allowed', status: 500 }
+[2022-03-21T10:08:07.426] [ERROR] app - { message: '"title" is not allowed', status: 500 }
+[2022-03-21T10:09:09.514] [ERROR] app - { message: '"title" is not allowed', status: 500 }
+[2022-03-21T10:10:08.571] [ERROR] app - { message: '"title" is not allowed', status: 500 }
+[2022-03-21T10:11:03.585] [ERROR] app - { message: '"title" is not allowed', status: 500 }
+[2022-03-21T10:11:14.571] [ERROR] app - { message: '"title" is not allowed', status: 500 }
+[2022-03-21T10:11:40.411] [ERROR] app - { message: '"title" is not allowed', status: 500 }
+[2022-03-21T10:11:56.491] [ERROR] app - { message: '"title" is not allowed', status: 500 }
+[2022-03-21T10:13:27.686] [ERROR] app - { message: '"title" is not allowed', status: 500 }
+[2022-03-21T10:13:31.893] [ERROR] app - { message: '"title" is not allowed', status: 500 }
+[2022-03-21T10:13:53.528] [ERROR] app - { message: '"title" is not allowed', status: 500 }
+[2022-03-21T10:14:46.211] [ERROR] app - { message: 'body-type为string类型且范围为[blog,book]的必需参数', status: 400 }
+[2022-03-21T10:26:46.248] [ERROR] app - { message: 'schema.update is not a function', status: 500 }
+[2022-03-21T10:29:37.704] [ERROR] app - { message: '"id" is not allowed', status: 500 }
+[2022-03-21T10:32:08.657] [ERROR] app - { message: 'body-title为string类型必需参数', status: 400 }
+[2022-03-21T10:33:07.166] [ERROR] app - { message: 'body-title为string类型参数', status: 400 }
+[2022-03-21T10:34:08.909] [ERROR] app - { message: 'body-type为string类型且范围为[blog,book]的必需参数', status: 400 }
+[2022-03-21T10:34:45.394] [ERROR] app - { message: '"id" is not allowed', status: 500 }
+[2022-03-21T10:38:42.754] [ERROR] app - { message: 'body-title为string类型必需参数', status: 400 }
+[2022-03-21T10:40:27.756] [ERROR] app - { message: 'body-id为number类型参数', status: 400 }
+[2022-03-21T10:46:26.487] [ERROR] app - { message: 'body-title为string类型必需参数', status: 400 }
+[2022-03-21T10:47:08.005] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-21T15:45:31.921] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-21T15:46:36.795] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-21T15:56:30.100] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-21T16:02:48.932] [ERROR] app - {
+  message: 'body-password为string必需参数,格式为大小写字母各一个,至少8位至多16位',
+  status: 400
+}
+[2022-03-21T16:04:15.732] [ERROR] app - {
+  message: 'body-password为string必需参数,格式为两个小写字母开头,至少8位至多16位',
+  status: 400
+}
+[2022-03-21T16:35:48.618] [ERROR] app - {
+  message: 'body-password为string必需参数,格式为两个小写字母开头,至少8位至多16位',
+  status: 400
+}
+[2022-03-21T17:56:30.654] [ERROR] app - {
+  message: 'body-password为string必需参数,格式为两个小写字母开头,至少8位至多16位',
+  status: 400
+}
+[2022-03-21T17:56:30.827] [ERROR] app - {
+  message: 'body-password为string必需参数,格式为两个小写字母开头,至少8位至多16位',
+  status: 400
+}
+[2022-03-21T17:56:30.902] [ERROR] app - {
+  message: 'body-password为string必需参数,格式为两个小写字母开头,至少8位至多16位',
+  status: 400
+}
+[2022-03-21T17:56:31.119] [ERROR] app - {
+  message: 'body-password为string必需参数,格式为两个小写字母开头,至少8位至多16位',
+  status: 400
+}
+[2022-03-21T19:18:05.306] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-21T19:18:05.511] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-21T19:18:05.540] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-21T19:18:05.682] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-21T19:21:30.220] [ERROR] app - {
+  message: 'body-password为string必需参数,格式为两个小写字母开头,至少8位至多16位',
+  status: 400
+}
+[2022-03-21T19:21:30.333] [ERROR] app - {
+  message: 'body-password为string必需参数,格式为两个小写字母开头,至少8位至多16位',
+  status: 400
+}
+[2022-03-21T19:32:21.201] [ERROR] app - {
+  message: 'body-password为string必需参数,格式为两个小写字母开头,至少8位至多16位',
+  status: 400
+}
+[2022-03-21T19:36:50.243] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-21T19:38:33.339] [ERROR] app - {
+  message: 'body-password为string必需参数,格式为两个小写字母开头,至少8位至多16位',
+  status: 400
+}
+[2022-03-21T19:42:21.960] [ERROR] app - {
+  message: 'body-password为string必需参数,格式为两个小写字母开头,至少8位至多16位',
+  status: 400
+}
+[2022-03-21T19:46:01.922] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-21T19:48:33.315] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-21T21:18:35.322] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-21T21:19:07.533] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-21T21:36:30.306] [ERROR] app - { message: 'body-title为string类型必需参数', status: 400 }
+[2022-03-21T21:37:35.743] [ERROR] app - { message: 'body-title为string类型必需参数', status: 400 }

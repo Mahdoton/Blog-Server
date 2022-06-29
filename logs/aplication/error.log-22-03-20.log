@@ -1,0 +1,69 @@
+[2022-03-20T12:01:20.814] [ERROR] app - Error: 我是文章2222的错误
+    at show (C:\Users\不受感\Desktop\blog-api\src\controllers\article.js:11:11)
+    at dispatch (C:\Users\不受感\Desktop\blog-api\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\不受感\Desktop\blog-api\node_modules\@koa\router\lib\router.js:372:16
+    at dispatch (C:\Users\不受感\Desktop\blog-api\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\不受感\Desktop\blog-api\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\不受感\Desktop\blog-api\node_modules\@koa\router\lib\router.js:377:31)
+    at dispatch (C:\Users\不受感\Desktop\blog-api\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\不受感\Desktop\blog-api\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\不受感\Desktop\blog-api\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\不受感\Desktop\blog-api\src\middlewares\handle\error.js:12:13
+[2022-03-20T12:02:19.256] [ERROR] app - { message: '我是文章111111的错误', status: 500 }
+[2022-03-20T13:12:48.371] [ERROR] app - { message: '"username" is not allowed to be empty', status: 500 }
+[2022-03-20T13:14:17.125] [ERROR] app - { message: 'username是必需参数', status: 500 }
+[2022-03-20T13:29:29.039] [ERROR] app - { message: 'username是必需参数', status: 500 }
+[2022-03-20T13:29:43.884] [ERROR] app - { message: '"password" is not allowed to be empty', status: 500 }
+[2022-03-20T13:30:06.929] [ERROR] app - { message: 'password是必需参数', status: 500 }
+[2022-03-20T13:31:21.888] [ERROR] app - { message: 'body-password是最小为3位的string必需参数', status: 500 }
+[2022-03-20T16:47:07.978] [ERROR] app - { message: 'body-password是最小为3位的string必需参数', status: 500 }
+[2022-03-20T16:52:54.700] [ERROR] app - { message: 'body-password是最小为3位的string必需参数', status: 400 }
+[2022-03-20T17:00:23.292] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-20T17:00:27.722] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-20T17:00:33.882] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-20T17:00:44.121] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-20T17:01:04.503] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-20T17:03:02.225] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-20T17:03:08.372] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-20T17:05:17.552] [ERROR] app - {
+  message: 'body-password为string必需参数,格式为大小写字母各一个,至少8位至多16位',
+  status: 400
+}
+[2022-03-20T17:22:44.602] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-20T17:47:20.042] [ERROR] app - { message: 'body-username为string必需参数,最大为10位', status: 400 }
+[2022-03-20T18:03:26.660] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-20T18:04:12.015] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-20T18:04:40.314] [ERROR] app - {
+  message: 'Bad Authorization header format. Format is "Authorization: Bearer <token>"',
+  status: 401
+}
+[2022-03-20T18:05:10.459] [ERROR] app - {
+  message: 'Bad Authorization header format. Format is "Authorization: Bearer <token>"',
+  status: 401
+}
+[2022-03-20T18:05:16.079] [ERROR] app - {
+  message: 'Bad Authorization header format. Format is "Authorization: Bearer <token>"',
+  status: 401
+}
+[2022-03-20T18:05:59.426] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-20T18:06:02.677] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-20T18:06:07.023] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-20T18:06:07.820] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-20T18:06:08.376] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-20T18:06:08.894] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-20T18:06:43.609] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-20T18:08:15.274] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-20T18:09:00.386] [ERROR] app - {
+  message: 'Bad Authorization header format. Format is "Authorization: Bearer <token>"',
+  status: 401
+}
+[2022-03-20T18:14:41.403] [ERROR] app - { message: 'id is not defined', status: 500 }
+[2022-03-20T18:14:52.400] [ERROR] app - { message: 'id is not defined', status: 500 }
+[2022-03-20T18:27:49.332] [ERROR] app - { message: 'body-title为string类型必需参数', status: 400 }
+[2022-03-20T18:28:10.111] [ERROR] app - { message: 'body-type为string类型且范围为[blog,book]的必需参数', status: 400 }
+[2022-03-20T20:31:28.798] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-20T20:40:20.633] [ERROR] app - { message: 'query-type为string类型且范围为[blog,book]的必需参数', status: 400 }
+[2022-03-20T20:47:47.509] [ERROR] app - { message: 'body-title为string类型必需参数', status: 400 }
+[2022-03-20T20:48:06.275] [ERROR] app - { message: 'body-title为string类型必需参数', status: 400 }
+[2022-03-20T21:13:12.844] [ERROR] app - { message: 'ctx.next is not a function', status: 500 }
+[2022-03-20T21:18:28.040] [ERROR] app - { message: 'Authentication Error', status: 401 }

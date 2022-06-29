@@ -1,0 +1,43 @@
+[2022-03-22T11:10:38.333] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:10:40.339] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:10:47.755] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:11:01.221] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:11:53.701] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:14:43.800] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:14:56.526] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:15:09.667] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:15:15.594] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:16:55.347] [ERROR] app - { message: 'Undeclared variable: NaN', status: 500 }
+[2022-03-22T11:17:05.081] [ERROR] app - { message: 'Undeclared variable: NaN', status: 500 }
+[2022-03-22T11:17:26.943] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:17:32.421] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:19:07.141] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:28:27.007] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:28:30.048] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:28:34.538] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:28:36.176] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:37:13.728] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:37:41.281] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:45:54.503] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T11:45:58.064] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T16:53:24.685] [ERROR] app - { message: 'query-limit为number类型参数,最小值为0', status: 400 }
+[2022-03-22T16:53:27.286] [ERROR] app - { message: 'query-limit为number类型参数,最小值为0', status: 400 }
+[2022-03-22T16:54:27.062] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T16:54:31.212] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T17:42:18.861] [ERROR] app - { message: 'FUNCTION blog.data_format does not exist', status: 500 }
+[2022-03-22T17:49:51.395] [ERROR] app - { message: 'Op is not defined', status: 500 }
+[2022-03-22T17:50:43.307] [ERROR] app - { message: 'Op is not defined', status: 500 }
+[2022-03-22T18:22:09.054] [ERROR] app - {
+  message: "Unknown column 'Article.id`DES' in 'order clause'",
+  status: 500
+}
+[2022-03-22T18:31:52.070] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T18:31:54.993] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T18:35:45.000] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T18:35:47.226] [ERROR] app - { message: 'query-page为number类型参数,最小值为1', status: 400 }
+[2022-03-22T18:38:33.598] [ERROR] app - { message: 'param-id为number类型必需参数', status: 400 }
+[2022-03-22T18:38:40.529] [ERROR] app - { message: 'param-id为number类型必需参数', status: 400 }
+[2022-03-22T18:38:49.670] [ERROR] app - { message: 'param-id为number类型必需参数', status: 400 }
+[2022-03-22T18:53:49.072] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-22T18:54:08.682] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-03-22T18:54:18.016] [ERROR] app - { message: '用户未登录,请先登录', status: 401 }
